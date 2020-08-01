@@ -5,11 +5,17 @@ hello world
 addition
 subtraction
 muultiplication
+fibonacci
+palindrome
 
 
 
 
 Thank you
 
+done with changes
+
+
 
 final copy
+
