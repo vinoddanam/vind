@@ -3,3 +3,5 @@ welcome to the laboratory
 
 hello world
 addition
+subtraction
+muultiplication
